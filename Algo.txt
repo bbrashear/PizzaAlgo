@@ -1,0 +1,6 @@
+pull up website
+select Order Now
+select your crust
+select your sauce
+select Pay Now
+finalize order
