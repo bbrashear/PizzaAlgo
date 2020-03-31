@@ -3,4 +3,5 @@ select Order Now
 select your crust
 select your sauce
 select Pay Now
-finalize order
+add payment information
+finalize Order
